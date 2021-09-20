@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jasa/pembuatan/skripsi-ta-pkl", {data:[{}],fetch:[],mutations:[]});

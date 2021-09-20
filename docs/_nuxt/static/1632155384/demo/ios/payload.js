@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/demo/ios", {data:[{}],fetch:[],mutations:[]});

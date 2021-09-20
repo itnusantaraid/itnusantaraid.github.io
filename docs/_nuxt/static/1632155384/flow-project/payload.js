@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/flow-project", {data:[{}],fetch:[],mutations:[]});

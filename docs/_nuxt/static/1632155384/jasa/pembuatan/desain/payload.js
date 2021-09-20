@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jasa/pembuatan/desain", {data:[{}],fetch:[],mutations:[]});

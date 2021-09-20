@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/demo/android", {data:[{}],fetch:[],mutations:[]});

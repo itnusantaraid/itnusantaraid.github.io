@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/jasa/pembuatan/web", {data:[{}],fetch:[],mutations:[]});
